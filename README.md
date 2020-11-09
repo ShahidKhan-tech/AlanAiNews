@@ -1,2 +1,3 @@
 # AlanAiNews
-check the demo here http://react1-news-ai.herokuapp.com
+It is an app that uses an alan ai which upon speaking something responds accordingly
+check the demo here    shahid-alan-ai-news.netlify.app
