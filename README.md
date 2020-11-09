@@ -1,3 +1,3 @@
 # AlanAiNews
 It is an app that uses an alan ai which upon speaking something responds accordingly
-check the demo here    shahid-alan-ai-news.netlify.app
+check the demo here   https://shahid-alan-ai-news.netlify.app/
